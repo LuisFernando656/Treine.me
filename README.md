@@ -5,6 +5,7 @@ In this project i learning
 
 - HTML basics 
 - CSS basics
+- Display Flex
 
 
 ## 🔗 Links
