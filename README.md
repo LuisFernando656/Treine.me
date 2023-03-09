@@ -3,6 +3,7 @@
 This stage I learning
 
 - HTML basics
+- CSS Basics
 
 ## 🔗 Links
 
