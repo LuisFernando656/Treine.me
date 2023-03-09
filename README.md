@@ -1,9 +1,11 @@
+
 ### Treine.me
 
-This stage I learning
+In this project i learning
 
-- HTML basics
+- HTML basics 
 - CSS basics
+
 
 ## 🔗 Links
 
