@@ -2,8 +2,7 @@
 
 This stage I learning
 
-- HTML base 
-
+- HTML basics
 
 ## 🔗 Links
 
